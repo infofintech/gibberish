@@ -1,0 +1,1 @@
+Show Chinese=||=gib.chi.png=||=window.location.href='gibberish.php?min=19968&max=40959';

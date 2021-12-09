@@ -1,2 +1,2 @@
-# gibberish
+# Gibberish
 A simple text generator.

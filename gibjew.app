@@ -1,0 +1,1 @@
+Show Hebrew=||=gib.jew.png=||=window.location.href='gibberish.php?min=1488&max=1514';

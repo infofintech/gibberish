@@ -1,0 +1,1 @@
+Show Japanese=||=gib.jap.png=||=window.location.href='gibberish.php?min=12352&max=12543';
