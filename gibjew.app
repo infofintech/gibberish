@@ -1,1 +1,1 @@
-Show Hebrew=||=gib.jew.png=||=window.location.href='gibberish.php?min=1488&max=1514';
+Show Hebrew|[1]|gib.jew.png|[1]|window.location.href='gibberish.php?min=1488&max=1514';

@@ -1,1 +1,1 @@
-Show Japanese=||=gib.jap.png=||=window.location.href='gibberish.php?min=12352&max=12543';
+Show Japanese|[1]|gib.jap.png|[1]|window.location.href='gibberish.php?min=12352&max=12543';
