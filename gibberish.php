@@ -15,7 +15,7 @@ $min = ($_REQUEST['min']) ? $_REQUEST['min'] : 33;
 $max = ($_REQUEST['max']) ? $_REQUEST['max'] : 126;
 $count = ($_REQUEST['count']) ? $_REQUEST['count'] : 860;
 $size = ($_REQUEST['size']) ? $_REQUEST['size'] : 20;
-for ($i = 0; $i < $all; $i++) {
+for ($i = 0; $i < $count; $i++) {
     $text .= mb_chr(rand($min, $max), 'UTF-8');
 }
 ?>
