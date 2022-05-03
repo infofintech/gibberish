@@ -1,1 +1,1 @@
-Gibberish|[1]|sys.language.png|[1]|window.location.href='gibberish.php?min=48&max=57&count=1024&size=16';
+Gibberish|[1]|sys.language.png|[1]|window.location.href='gibberish.php?min=33&max=126&count=860&size=20';
