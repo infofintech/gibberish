@@ -1,1 +1,0 @@
-Show Cyrillic|[1]|gib.rus.png|[1]|window.location.href='gibberish.php?min=1040&max=1071';

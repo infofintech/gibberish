@@ -1,1 +1,0 @@
-Show Latin|[1]|gib.eng.png|[1]|window.location.href='gibberish.php?min=65&max=90';

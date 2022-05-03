@@ -1,1 +1,0 @@
-Show Greek|[1]|gib.hel.png|[1]|window.location.href='gibberish.php?min=913&max=937';
