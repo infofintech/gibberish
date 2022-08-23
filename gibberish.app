@@ -1,1 +1,1 @@
-Gibberish|[1]|sys.language.png|[1]|window.location.href='gibberish.php?min=33&max=126&count=860&size=20';
+title|[>]|Gibberish|[1]|favicon|[>]|sys.language.png|[1]|run|[>]|window.location.href='gibberish.php?min=33&max=126&count=860&size=20';
